@@ -1,0 +1,6 @@
+{
+  "name": "O2 Cabs Driver",
+  "description": "Professional O2 Cabs Driver App with Phone OTP Login, real-time ride requests, live simulated location tracking, trip management, and wallet earnings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
